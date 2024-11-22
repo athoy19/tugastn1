@@ -1,0 +1,33 @@
+
+
+article p{
+    background-color: ;
+    text-decoration-color: ;
+}
+
+.nama {
+    text-align: center;
+    text-decoration: none;
+}
+.boxhead {
+    background-color: gray;
+    text-align: center;
+}
+*{
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+}
+ .tengah{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 10px;
+
+}
+article {
+    -webkit-box-shadow: inset -5px -2px 300px -52px rgba(212,201,212,1);
+-moz-box-shadow: inset -5px -2px 300px -52px rgba(212,201,212,1);
+box-shadow: inset -5px -2px 300px -52px rgba(212,201,212,1);
